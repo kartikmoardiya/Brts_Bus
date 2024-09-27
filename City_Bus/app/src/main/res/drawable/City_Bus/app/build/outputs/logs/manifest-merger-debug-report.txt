@@ -1,0 +1,399 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml:2:1-48:12
+MERGED from [androidx.databinding:viewbinding:8.3.1] C:\Users\Kartik\.gradle\caches\transforms-3\0153e8c83d36e4f066c11c62107760e6\transformed\viewbinding-8.3.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\Kartik\.gradle\caches\transforms-3\eb1bd89ce36c8013fc9e3ffefd14ae8e\transformed\material-1.11.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Kartik\.gradle\caches\transforms-3\47b8b91e9715fcd96822037d00171cc2\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Kartik\.gradle\caches\transforms-3\5d34b0f8bd5aebe5367ae51c09dd5bfb\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Kartik\.gradle\caches\transforms-3\07903b0b83686483514b48cff0d11fea\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Kartik\.gradle\caches\transforms-3\fc94249d6660cef0a716999effcb1dfb\transformed\play-services-maps-18.2.0\AndroidManifest.xml:17:1-44:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\a167cb281478b6fd98397fe82c1e06cf\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Kartik\.gradle\caches\transforms-3\9604d4cd5ea5994f3e525e8f1a637ede\transformed\play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Kartik\.gradle\caches\transforms-3\5945531160081f22be11fa54f3706c1e\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\ace3e65277d26d0fcfd03d9ec2809195\transformed\play-services-basement-18.0.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Kartik\.gradle\caches\transforms-3\a5487f3fb42cf1139d2cd328236635dc\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Kartik\.gradle\caches\transforms-3\bbbf59de02186adda6b8b71e38126ab3\transformed\activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Kartik\.gradle\caches\transforms-3\f3cd67ed76766d1f5b98c36d9eea51f6\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Kartik\.gradle\caches\transforms-3\a8fc2a120e6e4b92eb3812aa8a02ee60\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Kartik\.gradle\caches\transforms-3\f67d368872455fc09fd85123f346fa59\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\31aaae0ca29eef40bcebef1ba043977e\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\e8af63a3ec8c4704c68201da4f68bf9d\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Kartik\.gradle\caches\transforms-3\61fdf8cb14b3da75fbd0282fb3196e48\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\cf1870ea21037623d9a2d05cd5087bfe\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\f5c44f1e171d76a87e0232a44cba061b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\30b706c6b2ff1c7fb18685f6edbf38b1\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\837dc023f593f4e87f27ebebe43e1a7d\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Kartik\.gradle\caches\transforms-3\a031df6aa1520b064fd09523e5ec70eb\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\Kartik\.gradle\caches\transforms-3\6753d456ba0bcf5db9f8559c87d345bc\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Kartik\.gradle\caches\transforms-3\03bfbb8ffa38d8c9b2c127c8e9ab387f\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\Kartik\.gradle\caches\transforms-3\167647fcfc7ea9d5f7c1c6b4359d5b70\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\Kartik\.gradle\caches\transforms-3\8730e88a2dff702a8b4ab467ba5fb689\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\Kartik\.gradle\caches\transforms-3\04e487ec94e5b17e74b26f7143cc012c\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\Kartik\.gradle\caches\transforms-3\97665b49ea326069a1e9a2ea9ca7f165\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\Kartik\.gradle\caches\transforms-3\8c71ff93f61c06aa9cb62f2b8e472846\transformed\core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\4947c282879b5f03f0b53340786a5857\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\9a794600b4bcb1ee34d332e1fe372b58\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\4e0420c8f20a83837401bffd5fd5aaa2\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\Kartik\.gradle\caches\transforms-3\c349073d9238e4ebb1cfcc37762d1c9a\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\e27bbd40eb3e33e64699235e2e2d966c\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\6165b77762c797cb87a71f8761398090\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Kartik\.gradle\caches\transforms-3\1c195ccdeafdc98685ae4a5b01465a95\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Kartik\.gradle\caches\transforms-3\3d481d880049b37e5f04ac410b46de1c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\4c7c355790069910d43e017fcaf1f533\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Kartik\.gradle\caches\transforms-3\4a8689d8bb7e6b709170c23fc4bdae62\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Kartik\.gradle\caches\transforms-3\93d36f9b853196f1fb46f392d344cc60\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\609a53175d89f0ec65a7b78348a513e4\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\d43af95b5ebe947f47da1d499efb76cc\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\42e16e002fda38dab1511c39f8919b9d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\4a328aed4257ae54b621c71587e9271f\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Kartik\.gradle\caches\transforms-3\4b79d13c25b81b93f377e5e4298d21e0\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Kartik\.gradle\caches\transforms-3\fc94249d6660cef0a716999effcb1dfb\transformed\play-services-maps-18.2.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Kartik\.gradle\caches\transforms-3\fc94249d6660cef0a716999effcb1dfb\transformed\play-services-maps-18.2.0\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml:8:5-46:19
+INJECTED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml:8:5-46:19
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\Kartik\.gradle\caches\transforms-3\eb1bd89ce36c8013fc9e3ffefd14ae8e\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\Kartik\.gradle\caches\transforms-3\eb1bd89ce36c8013fc9e3ffefd14ae8e\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Kartik\.gradle\caches\transforms-3\47b8b91e9715fcd96822037d00171cc2\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Kartik\.gradle\caches\transforms-3\47b8b91e9715fcd96822037d00171cc2\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Kartik\.gradle\caches\transforms-3\fc94249d6660cef0a716999effcb1dfb\transformed\play-services-maps-18.2.0\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Kartik\.gradle\caches\transforms-3\fc94249d6660cef0a716999effcb1dfb\transformed\play-services-maps-18.2.0\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Kartik\.gradle\caches\transforms-3\9604d4cd5ea5994f3e525e8f1a637ede\transformed\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Kartik\.gradle\caches\transforms-3\9604d4cd5ea5994f3e525e8f1a637ede\transformed\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Kartik\.gradle\caches\transforms-3\5945531160081f22be11fa54f3706c1e\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Kartik\.gradle\caches\transforms-3\5945531160081f22be11fa54f3706c1e\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\ace3e65277d26d0fcfd03d9ec2809195\transformed\play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\ace3e65277d26d0fcfd03d9ec2809195\transformed\play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Kartik\.gradle\caches\transforms-3\a8fc2a120e6e4b92eb3812aa8a02ee60\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Kartik\.gradle\caches\transforms-3\a8fc2a120e6e4b92eb3812aa8a02ee60\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Kartik\.gradle\caches\transforms-3\03bfbb8ffa38d8c9b2c127c8e9ab387f\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Kartik\.gradle\caches\transforms-3\03bfbb8ffa38d8c9b2c127c8e9ab387f\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] C:\Users\Kartik\.gradle\caches\transforms-3\c349073d9238e4ebb1cfcc37762d1c9a\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\Kartik\.gradle\caches\transforms-3\c349073d9238e4ebb1cfcc37762d1c9a\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Kartik\.gradle\caches\transforms-3\1c195ccdeafdc98685ae4a5b01465a95\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Kartik\.gradle\caches\transforms-3\1c195ccdeafdc98685ae4a5b01465a95\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Kartik\.gradle\caches\transforms-3\3d481d880049b37e5f04ac410b46de1c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Kartik\.gradle\caches\transforms-3\3d481d880049b37e5f04ac410b46de1c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Kartik\.gradle\caches\transforms-3\4a8689d8bb7e6b709170c23fc4bdae62\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Kartik\.gradle\caches\transforms-3\4a8689d8bb7e6b709170c23fc4bdae62\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Kartik\.gradle\caches\transforms-3\c349073d9238e4ebb1cfcc37762d1c9a\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml:13:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml:11:9-54
+	android:roundIcon
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml:14:9-54
+	tools:targetApi
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml:17:9-29
+	android:icon
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml:16:9-46
+	android:dataExtractionRules
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml:10:9-65
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml:18:9-20:45
+	android:value
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml:20:13-42
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml:19:13-58
+activity#com.example.city_bus.MapActivity
+ADDED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml:22:9-24:40
+	android:exported
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml:23:13-40
+activity#com.example.city_bus.User_Login_Signout.ForgatePassword
+ADDED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml:26:13-63
+activity#com.example.city_bus.User_Login_Signout.SignUp
+ADDED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml:28:9-30:40
+	android:exported
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml:29:13-54
+activity#com.example.city_bus.User_Login_Signout.Login
+ADDED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml:31:9-33:40
+	android:exported
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml:32:13-53
+activity#com.example.city_bus.SplashActivity.SplaceActivity
+ADDED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml:34:9-42:20
+	android:exported
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml:36:13-36
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml:35:13-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml:37:13-41:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml:38:17-69
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml:40:27-74
+activity#com.example.city_bus.MainActivity
+ADDED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml:43:9-45:48
+	android:exported
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml:45:13-36
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml:44:13-41
+uses-sdk
+INJECTED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.3.1] C:\Users\Kartik\.gradle\caches\transforms-3\0153e8c83d36e4f066c11c62107760e6\transformed\viewbinding-8.3.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.3.1] C:\Users\Kartik\.gradle\caches\transforms-3\0153e8c83d36e4f066c11c62107760e6\transformed\viewbinding-8.3.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\Kartik\.gradle\caches\transforms-3\eb1bd89ce36c8013fc9e3ffefd14ae8e\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\Kartik\.gradle\caches\transforms-3\eb1bd89ce36c8013fc9e3ffefd14ae8e\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Kartik\.gradle\caches\transforms-3\47b8b91e9715fcd96822037d00171cc2\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Kartik\.gradle\caches\transforms-3\47b8b91e9715fcd96822037d00171cc2\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Kartik\.gradle\caches\transforms-3\5d34b0f8bd5aebe5367ae51c09dd5bfb\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Kartik\.gradle\caches\transforms-3\5d34b0f8bd5aebe5367ae51c09dd5bfb\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Kartik\.gradle\caches\transforms-3\07903b0b83686483514b48cff0d11fea\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Kartik\.gradle\caches\transforms-3\07903b0b83686483514b48cff0d11fea\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Kartik\.gradle\caches\transforms-3\fc94249d6660cef0a716999effcb1dfb\transformed\play-services-maps-18.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Kartik\.gradle\caches\transforms-3\fc94249d6660cef0a716999effcb1dfb\transformed\play-services-maps-18.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\a167cb281478b6fd98397fe82c1e06cf\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\a167cb281478b6fd98397fe82c1e06cf\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Kartik\.gradle\caches\transforms-3\9604d4cd5ea5994f3e525e8f1a637ede\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Kartik\.gradle\caches\transforms-3\9604d4cd5ea5994f3e525e8f1a637ede\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Kartik\.gradle\caches\transforms-3\5945531160081f22be11fa54f3706c1e\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Kartik\.gradle\caches\transforms-3\5945531160081f22be11fa54f3706c1e\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\ace3e65277d26d0fcfd03d9ec2809195\transformed\play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\ace3e65277d26d0fcfd03d9ec2809195\transformed\play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Kartik\.gradle\caches\transforms-3\a5487f3fb42cf1139d2cd328236635dc\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Kartik\.gradle\caches\transforms-3\a5487f3fb42cf1139d2cd328236635dc\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Kartik\.gradle\caches\transforms-3\bbbf59de02186adda6b8b71e38126ab3\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Kartik\.gradle\caches\transforms-3\bbbf59de02186adda6b8b71e38126ab3\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Kartik\.gradle\caches\transforms-3\f3cd67ed76766d1f5b98c36d9eea51f6\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Kartik\.gradle\caches\transforms-3\f3cd67ed76766d1f5b98c36d9eea51f6\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Kartik\.gradle\caches\transforms-3\a8fc2a120e6e4b92eb3812aa8a02ee60\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Kartik\.gradle\caches\transforms-3\a8fc2a120e6e4b92eb3812aa8a02ee60\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Kartik\.gradle\caches\transforms-3\f67d368872455fc09fd85123f346fa59\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Kartik\.gradle\caches\transforms-3\f67d368872455fc09fd85123f346fa59\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\31aaae0ca29eef40bcebef1ba043977e\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\31aaae0ca29eef40bcebef1ba043977e\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\e8af63a3ec8c4704c68201da4f68bf9d\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\e8af63a3ec8c4704c68201da4f68bf9d\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Kartik\.gradle\caches\transforms-3\61fdf8cb14b3da75fbd0282fb3196e48\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Kartik\.gradle\caches\transforms-3\61fdf8cb14b3da75fbd0282fb3196e48\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\cf1870ea21037623d9a2d05cd5087bfe\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\cf1870ea21037623d9a2d05cd5087bfe\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\f5c44f1e171d76a87e0232a44cba061b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\f5c44f1e171d76a87e0232a44cba061b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\30b706c6b2ff1c7fb18685f6edbf38b1\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\30b706c6b2ff1c7fb18685f6edbf38b1\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\837dc023f593f4e87f27ebebe43e1a7d\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\837dc023f593f4e87f27ebebe43e1a7d\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Kartik\.gradle\caches\transforms-3\a031df6aa1520b064fd09523e5ec70eb\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Kartik\.gradle\caches\transforms-3\a031df6aa1520b064fd09523e5ec70eb\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\Kartik\.gradle\caches\transforms-3\6753d456ba0bcf5db9f8559c87d345bc\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\Kartik\.gradle\caches\transforms-3\6753d456ba0bcf5db9f8559c87d345bc\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Kartik\.gradle\caches\transforms-3\03bfbb8ffa38d8c9b2c127c8e9ab387f\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Kartik\.gradle\caches\transforms-3\03bfbb8ffa38d8c9b2c127c8e9ab387f\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\Kartik\.gradle\caches\transforms-3\167647fcfc7ea9d5f7c1c6b4359d5b70\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\Kartik\.gradle\caches\transforms-3\167647fcfc7ea9d5f7c1c6b4359d5b70\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\Kartik\.gradle\caches\transforms-3\8730e88a2dff702a8b4ab467ba5fb689\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\Kartik\.gradle\caches\transforms-3\8730e88a2dff702a8b4ab467ba5fb689\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\Kartik\.gradle\caches\transforms-3\04e487ec94e5b17e74b26f7143cc012c\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\Kartik\.gradle\caches\transforms-3\04e487ec94e5b17e74b26f7143cc012c\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\Kartik\.gradle\caches\transforms-3\97665b49ea326069a1e9a2ea9ca7f165\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\Kartik\.gradle\caches\transforms-3\97665b49ea326069a1e9a2ea9ca7f165\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\Kartik\.gradle\caches\transforms-3\8c71ff93f61c06aa9cb62f2b8e472846\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\Kartik\.gradle\caches\transforms-3\8c71ff93f61c06aa9cb62f2b8e472846\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\4947c282879b5f03f0b53340786a5857\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\4947c282879b5f03f0b53340786a5857\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\9a794600b4bcb1ee34d332e1fe372b58\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\9a794600b4bcb1ee34d332e1fe372b58\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\4e0420c8f20a83837401bffd5fd5aaa2\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\4e0420c8f20a83837401bffd5fd5aaa2\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] C:\Users\Kartik\.gradle\caches\transforms-3\c349073d9238e4ebb1cfcc37762d1c9a\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\Kartik\.gradle\caches\transforms-3\c349073d9238e4ebb1cfcc37762d1c9a\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\e27bbd40eb3e33e64699235e2e2d966c\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\e27bbd40eb3e33e64699235e2e2d966c\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\6165b77762c797cb87a71f8761398090\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\6165b77762c797cb87a71f8761398090\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Kartik\.gradle\caches\transforms-3\1c195ccdeafdc98685ae4a5b01465a95\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Kartik\.gradle\caches\transforms-3\1c195ccdeafdc98685ae4a5b01465a95\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Kartik\.gradle\caches\transforms-3\3d481d880049b37e5f04ac410b46de1c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Kartik\.gradle\caches\transforms-3\3d481d880049b37e5f04ac410b46de1c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\4c7c355790069910d43e017fcaf1f533\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\4c7c355790069910d43e017fcaf1f533\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Kartik\.gradle\caches\transforms-3\4a8689d8bb7e6b709170c23fc4bdae62\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Kartik\.gradle\caches\transforms-3\4a8689d8bb7e6b709170c23fc4bdae62\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Kartik\.gradle\caches\transforms-3\93d36f9b853196f1fb46f392d344cc60\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Kartik\.gradle\caches\transforms-3\93d36f9b853196f1fb46f392d344cc60\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\609a53175d89f0ec65a7b78348a513e4\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\609a53175d89f0ec65a7b78348a513e4\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\d43af95b5ebe947f47da1d499efb76cc\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\d43af95b5ebe947f47da1d499efb76cc\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\42e16e002fda38dab1511c39f8919b9d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\42e16e002fda38dab1511c39f8919b9d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\4a328aed4257ae54b621c71587e9271f\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\4a328aed4257ae54b621c71587e9271f\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Kartik\.gradle\caches\transforms-3\4b79d13c25b81b93f377e5e4298d21e0\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Kartik\.gradle\caches\transforms-3\4b79d13c25b81b93f377e5e4298d21e0\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Kartik\AndroidStudioProjects\City_Bus\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Kartik\.gradle\caches\transforms-3\fc94249d6660cef0a716999effcb1dfb\transformed\play-services-maps-18.2.0\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Kartik\.gradle\caches\transforms-3\fc94249d6660cef0a716999effcb1dfb\transformed\play-services-maps-18.2.0\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Kartik\.gradle\caches\transforms-3\fc94249d6660cef0a716999effcb1dfb\transformed\play-services-maps-18.2.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Kartik\.gradle\caches\transforms-3\fc94249d6660cef0a716999effcb1dfb\transformed\play-services-maps-18.2.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Kartik\.gradle\caches\transforms-3\fc94249d6660cef0a716999effcb1dfb\transformed\play-services-maps-18.2.0\AndroidManifest.xml:28:9-32
+queries
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Kartik\.gradle\caches\transforms-3\fc94249d6660cef0a716999effcb1dfb\transformed\play-services-maps-18.2.0\AndroidManifest.xml:30:5-34:15
+package#com.google.android.apps.maps
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Kartik\.gradle\caches\transforms-3\fc94249d6660cef0a716999effcb1dfb\transformed\play-services-maps-18.2.0\AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Kartik\.gradle\caches\transforms-3\fc94249d6660cef0a716999effcb1dfb\transformed\play-services-maps-18.2.0\AndroidManifest.xml:33:18-61
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Kartik\.gradle\caches\transforms-3\fc94249d6660cef0a716999effcb1dfb\transformed\play-services-maps-18.2.0\AndroidManifest.xml:39:9-41:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Kartik\.gradle\caches\transforms-3\fc94249d6660cef0a716999effcb1dfb\transformed\play-services-maps-18.2.0\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Kartik\.gradle\caches\transforms-3\fc94249d6660cef0a716999effcb1dfb\transformed\play-services-maps-18.2.0\AndroidManifest.xml:40:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Kartik\.gradle\caches\transforms-3\9604d4cd5ea5994f3e525e8f1a637ede\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Kartik\.gradle\caches\transforms-3\9604d4cd5ea5994f3e525e8f1a637ede\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Kartik\.gradle\caches\transforms-3\9604d4cd5ea5994f3e525e8f1a637ede\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Kartik\.gradle\caches\transforms-3\9604d4cd5ea5994f3e525e8f1a637ede\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\ace3e65277d26d0fcfd03d9ec2809195\transformed\play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\ace3e65277d26d0fcfd03d9ec2809195\transformed\play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\ace3e65277d26d0fcfd03d9ec2809195\transformed\play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Kartik\.gradle\caches\transforms-3\a8fc2a120e6e4b92eb3812aa8a02ee60\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Kartik\.gradle\caches\transforms-3\03bfbb8ffa38d8c9b2c127c8e9ab387f\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Kartik\.gradle\caches\transforms-3\03bfbb8ffa38d8c9b2c127c8e9ab387f\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Kartik\.gradle\caches\transforms-3\1c195ccdeafdc98685ae4a5b01465a95\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Kartik\.gradle\caches\transforms-3\1c195ccdeafdc98685ae4a5b01465a95\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Kartik\.gradle\caches\transforms-3\3d481d880049b37e5f04ac410b46de1c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Kartik\.gradle\caches\transforms-3\3d481d880049b37e5f04ac410b46de1c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Kartik\.gradle\caches\transforms-3\a8fc2a120e6e4b92eb3812aa8a02ee60\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Kartik\.gradle\caches\transforms-3\a8fc2a120e6e4b92eb3812aa8a02ee60\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Kartik\.gradle\caches\transforms-3\a8fc2a120e6e4b92eb3812aa8a02ee60\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Kartik\.gradle\caches\transforms-3\a8fc2a120e6e4b92eb3812aa8a02ee60\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Kartik\.gradle\caches\transforms-3\a8fc2a120e6e4b92eb3812aa8a02ee60\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Kartik\.gradle\caches\transforms-3\a8fc2a120e6e4b92eb3812aa8a02ee60\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Kartik\.gradle\caches\transforms-3\a8fc2a120e6e4b92eb3812aa8a02ee60\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Kartik\.gradle\caches\transforms-3\03bfbb8ffa38d8c9b2c127c8e9ab387f\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Kartik\.gradle\caches\transforms-3\03bfbb8ffa38d8c9b2c127c8e9ab387f\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Kartik\.gradle\caches\transforms-3\03bfbb8ffa38d8c9b2c127c8e9ab387f\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Kartik\.gradle\caches\transforms-3\c349073d9238e4ebb1cfcc37762d1c9a\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Kartik\.gradle\caches\transforms-3\c349073d9238e4ebb1cfcc37762d1c9a\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Kartik\.gradle\caches\transforms-3\c349073d9238e4ebb1cfcc37762d1c9a\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#com.example.city_bus.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Kartik\.gradle\caches\transforms-3\c349073d9238e4ebb1cfcc37762d1c9a\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Kartik\.gradle\caches\transforms-3\c349073d9238e4ebb1cfcc37762d1c9a\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Kartik\.gradle\caches\transforms-3\c349073d9238e4ebb1cfcc37762d1c9a\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Kartik\.gradle\caches\transforms-3\c349073d9238e4ebb1cfcc37762d1c9a\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Kartik\.gradle\caches\transforms-3\c349073d9238e4ebb1cfcc37762d1c9a\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.city_bus.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Kartik\.gradle\caches\transforms-3\c349073d9238e4ebb1cfcc37762d1c9a\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Kartik\.gradle\caches\transforms-3\c349073d9238e4ebb1cfcc37762d1c9a\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Kartik\.gradle\caches\transforms-3\1c195ccdeafdc98685ae4a5b01465a95\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Kartik\.gradle\caches\transforms-3\1c195ccdeafdc98685ae4a5b01465a95\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Kartik\.gradle\caches\transforms-3\1c195ccdeafdc98685ae4a5b01465a95\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Kartik\.gradle\caches\transforms-3\1c195ccdeafdc98685ae4a5b01465a95\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Kartik\.gradle\caches\transforms-3\1c195ccdeafdc98685ae4a5b01465a95\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Kartik\.gradle\caches\transforms-3\1c195ccdeafdc98685ae4a5b01465a95\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Kartik\.gradle\caches\transforms-3\1c195ccdeafdc98685ae4a5b01465a95\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Kartik\.gradle\caches\transforms-3\1c195ccdeafdc98685ae4a5b01465a95\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Kartik\.gradle\caches\transforms-3\1c195ccdeafdc98685ae4a5b01465a95\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Kartik\.gradle\caches\transforms-3\1c195ccdeafdc98685ae4a5b01465a95\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Kartik\.gradle\caches\transforms-3\1c195ccdeafdc98685ae4a5b01465a95\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Kartik\.gradle\caches\transforms-3\1c195ccdeafdc98685ae4a5b01465a95\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Kartik\.gradle\caches\transforms-3\1c195ccdeafdc98685ae4a5b01465a95\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Kartik\.gradle\caches\transforms-3\1c195ccdeafdc98685ae4a5b01465a95\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Kartik\.gradle\caches\transforms-3\1c195ccdeafdc98685ae4a5b01465a95\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Kartik\.gradle\caches\transforms-3\1c195ccdeafdc98685ae4a5b01465a95\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Kartik\.gradle\caches\transforms-3\1c195ccdeafdc98685ae4a5b01465a95\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Kartik\.gradle\caches\transforms-3\1c195ccdeafdc98685ae4a5b01465a95\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Kartik\.gradle\caches\transforms-3\1c195ccdeafdc98685ae4a5b01465a95\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Kartik\.gradle\caches\transforms-3\1c195ccdeafdc98685ae4a5b01465a95\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Kartik\.gradle\caches\transforms-3\1c195ccdeafdc98685ae4a5b01465a95\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
